@@ -12,7 +12,7 @@ const App = ({ ...props }) => {
 				<h1 className={`visually-hidden`}>cats food</h1>
 			</header>
 			<main className={`${styles.app}`}>
-				<ProductPage/>
+				<ProductPage />
 			</main>
 		</>
 	)

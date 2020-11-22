@@ -15,7 +15,7 @@
     "redux": "^4.0.5",
     "redux-form": "^8.3.6"
   },
-  "homepage": "https://KirilovVladislav.github.io/test-funbox/",
+  "homepage": "https://kirilovvladislav.github.io/test-funbox/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
