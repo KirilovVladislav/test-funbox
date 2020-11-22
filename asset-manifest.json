@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test-funbox/static/css/main.5216102c.chunk.css",
+    "main.js": "/test-funbox/static/js/main.bf71eebd.chunk.js",
+    "main.js.map": "/test-funbox/static/js/main.bf71eebd.chunk.js.map",
+    "runtime-main.js": "/test-funbox/static/js/runtime-main.2fc311a1.js",
+    "runtime-main.js.map": "/test-funbox/static/js/runtime-main.2fc311a1.js.map",
+    "static/js/2.5ef061cb.chunk.js": "/test-funbox/static/js/2.5ef061cb.chunk.js",
+    "static/js/2.5ef061cb.chunk.js.map": "/test-funbox/static/js/2.5ef061cb.chunk.js.map",
+    "index.html": "/test-funbox/index.html",
+    "precache-manifest.0c7da8466270ae68c5152fb082e371fe.js": "/test-funbox/precache-manifest.0c7da8466270ae68c5152fb082e371fe.js",
+    "service-worker.js": "/test-funbox/service-worker.js",
+    "static/css/main.5216102c.chunk.css.map": "/test-funbox/static/css/main.5216102c.chunk.css.map",
+    "static/js/2.5ef061cb.chunk.js.LICENSE.txt": "/test-funbox/static/js/2.5ef061cb.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/test-funbox/static/media/Exo2.0-Thin.44bde874.otf",
+    "static/media/funbox_cat-logo.png": "/test-funbox/static/media/funbox_cat-logo.36fdd8e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fc311a1.js",
+    "static/js/2.5ef061cb.chunk.js",
+    "static/css/main.5216102c.chunk.css",
+    "static/js/main.bf71eebd.chunk.js"
+  ]
+}
