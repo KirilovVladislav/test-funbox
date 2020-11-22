@@ -1,8 +1,8 @@
 # Тестовое задание FunBox
 
-Скачать тестовое задание целиком можно здесь: [https://dl.funbox.ru/qt-html-css-js.zip](https://dl.funbox.ru/qt-html-css-js.zip).
+Скачать тестовое задание целиком можно здесь: [https://dl.funbox.ru/qt-html-css-js.zip](ссылка на скачивание).
 
-Ссылка на [https://kirilovvladislav.github.io/test-funbox/](github pages)
+Ссылка на [https://kirilovvladislav.github.io/test-funbox](github pages).
 
 Браузеры: Chrome, Firefox, Safari, IE11;
 Стандарты: на ваше усмотрение;
